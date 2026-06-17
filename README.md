@@ -1,4 +1,4 @@
-# Cilekler
+# Project Management of Cilekler
 ### HTML-Based Digital Storytelling Game for Museum Visitor Engagement
 
 > *A browser-based interactive narrative game commissioned for a museum exhibition.*
@@ -195,6 +195,4 @@ This project was developed as the final exam deliverable for:
 DHDK Master's Programme · FICLIT · University of Bologna · A.Y. 2025/2026
 Instructor: Paolo Bonora
 
----
 
-*README last updated: June 2026*
