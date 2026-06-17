@@ -1,4 +1,4 @@
-# Project Management of Cilekler
+# 💻 Project Management of Cilekler 
 ### HTML-Based Digital Storytelling Game for Museum Visitor Engagement
 
 > *A browser-based interactive narrative game commissioned for a museum exhibition.*
@@ -31,34 +31,6 @@ The player takes on the role of a **Time Detective** investigating a historical 
 | Hosting          | GitHub Pages (static, no server)                     |
 | Data privacy     | No PII collected, no cookies, no analytics           |
 | Access           | URL or QR code (on-site at the museum)               |
-
----
-
-## Repository Structure
-
-```
-Cilekler/
-│
-├── index.html                  # Main game file (Twine export + custom styling)
-├── style.css                   # Custom CSS for layout and typography
-│
-├── assets/
-│   ├── images/                 # AI-generated passage images
-│   └── audio/                  # Ambient sound files
-│
-└── docs/                       # Project documentation (B1874 deliverables)
-    ├── 1-Project-Charter.docx
-    ├── 1b-Financial-Budget-Plan.docx
-    ├── 2-Gantt-Chart.xlsx
-    ├── 3-SRS.docx
-    ├── 4-Architecture-Diagrams/
-    │   ├── system-architecture.jpg
-    │   └── application-diagram.jpg
-    ├── 5-Sample-Use-Case.docx
-    ├── 6-Testing-Methodology-and-a-Test-Case.docx
-    ├── 7-Slideshow.docx
-    └── 8-User-Manual.docx
-```
 
 ---
 
